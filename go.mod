@@ -66,8 +66,6 @@ require github.com/twmb/murmur3 v1.1.8 // indirect
 
 require github.com/google/go-github/v57 v57.0.0 // indirect
 
-require github.com/google/go-github/v58 v58.0.0
-
 require (
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver/v3 v3.2.1 // indirect
